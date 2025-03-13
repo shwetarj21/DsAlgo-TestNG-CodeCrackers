@@ -17,6 +17,8 @@
 			<class name="dsAlgo_TestClasses.LinkedList_TestClass" />
 			<class name="dsAlgo_TestClasses.Stack_TestClass" />
 			<class name="dsAlgo_TestClasses.Queue_TestClass" />
+			<class name="dsAlgo_TestClasses.Tree_TestClass" />
+			<class name="dsAlgo_TestClasses.Graph_TestClass" />
 		</classes>
 	</test>
 </suite>
