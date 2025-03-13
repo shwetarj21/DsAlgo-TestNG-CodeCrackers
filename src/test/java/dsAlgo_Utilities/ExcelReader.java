@@ -9,10 +9,9 @@ import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.testng.annotations.DataProvider;
 
 public class ExcelReader {
-	static ConfigReader configFileReader;
+	static ConfigReader configFileReader = new ConfigReader();
 	public static String[] excelDataRead(String sheetName, int rowNumber) throws IOException {
 	
 	String path = configFileReader.getExcelPath();

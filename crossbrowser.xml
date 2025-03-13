@@ -3,38 +3,42 @@
 <suite name="Suite" parallel="tests" thread-count="3">
 
 	<listeners>
-		<listener
-			class-name="com.aventstack.chaintest.plugins.ChainTestListener" />
+		<listener class-name="com.aventstack.chaintest.plugins.ChainTestListener" />
 		<listener class-name="dsAlgo_Utilities.RetryListenerClass" />
-		<listener class-name="dsAlgo_Utilities.Listeners_Test" />  <!-- Custom
-		Listener -->
+		<listener class-name="dsAlgo_Utilities.Listeners_Reporter" />  
 	</listeners>
 
 	<test name="ChromeTest">
 		<parameter name="browser" value="chrome" />
-
 		<classes>
 			<class name="dsAlgo_TestClasses.Home_TestClass" />
+			<class name="dsAlgo_TestClasses.Register_TestClass" />
 			<class name="dsAlgo_TestClasses.Login_TestClass" />
+			<class name="dsAlgo_TestClasses.LinkedList_TestClass" />
 			<class name="dsAlgo_TestClasses.Stack_TestClass" />
+			<class name="dsAlgo_TestClasses.Queue_TestClass" />
 		</classes>
 	</test>
 	<test name="FirefoxTest">
 		<parameter name="browser" value="firefox" />
-
 		<classes>
 			<class name="dsAlgo_TestClasses.Home_TestClass" />
+			<class name="dsAlgo_TestClasses.Register_TestClass" />
 			<class name="dsAlgo_TestClasses.Login_TestClass" />
+			<class name="dsAlgo_TestClasses.LinkedList_TestClass" />
 			<class name="dsAlgo_TestClasses.Stack_TestClass" />
+			<class name="dsAlgo_TestClasses.Queue_TestClass" />
 		</classes>
 	</test>
 	<test name="EdgeTest">
 		<parameter name="browser" value="edge" />
-
 		<classes>
 			<class name="dsAlgo_TestClasses.Home_TestClass" />
+			<class name="dsAlgo_TestClasses.Register_TestClass" />
 			<class name="dsAlgo_TestClasses.Login_TestClass" />
+			<class name="dsAlgo_TestClasses.LinkedList_TestClass" />
 			<class name="dsAlgo_TestClasses.Stack_TestClass" />
+			<class name="dsAlgo_TestClasses.Queue_TestClass" />
 		</classes>
 	</test>
 </suite>

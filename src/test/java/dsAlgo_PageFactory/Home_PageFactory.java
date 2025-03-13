@@ -37,12 +37,7 @@ public class Home_PageFactory{
 		public Home_PageFactory() {
 			PageFactory.initElements(driver, this);
 		}
-		 
-		
-//		public void launchUrl() {
-//	        driver.get(ConfigReader.getApplicationUrl());  
-//		}
-		 
+ 
 		 public void launchUrl() {
 		        if (driver != null) {
 		            driver.get(ConfigReader.getApplicationUrl());

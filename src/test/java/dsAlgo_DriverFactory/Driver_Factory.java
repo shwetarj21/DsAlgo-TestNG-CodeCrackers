@@ -19,14 +19,9 @@ public class Driver_Factory {
 	public static WebDriver driver;
 	public static  ConfigReader configFileReader = new ConfigReader();
 	private static ThreadLocal<WebDriver> tldriver = new ThreadLocal<>() ;
-	 //private static String browser; // Store browser globally
 
 	@BeforeClass
 	@Parameters("browser")
-	
-	 //public void setUp(String browserFromXML) {
-     //browser = System.getProperty("browser", browserFromXML); // Use system property or XML parameter
-	
 	public void setUp(@Optional("chrome")  String browser ) {
 		System.out.println("Browser received from TestNG: " + browser);
 		if (getDriver() == null) {
@@ -40,9 +35,7 @@ public class Driver_Factory {
 				WebDriverManager.edgedriver().setup();
 				tldriver.set(new EdgeDriver());
 			}
-			//getDriver.manage().window().maximize();
-
-
+			getDriver().manage().window().maximize();
 			getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		}
 	}

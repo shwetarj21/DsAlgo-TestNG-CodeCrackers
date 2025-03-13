@@ -3,17 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="dsAlgo_TestClasses.Stack_TestClass">
+      <class name="dsAlgo_TestClasses.Register_TestClass">
         <methods>
-          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementation" invocation-numbers="0"/>
-          <include name="navigateToOperationsInStackPracticeQuestions" invocation-numbers="0"/>
-          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInOperationsInStackPage" invocation-numbers="0"/>
-          <include name="takeScreenshotOnFailure"/>
+          <include name="registerBugPass" invocation-numbers="0"/>
+          <include name="registerValid" invocation-numbers="0"/>
           <include name="tearDown"/>
+          <include name="takeScreenshotOnFailure"/>
           <include name="setup"/>
-          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInApplication" invocation-numbers="0"/>
         </methods>
-      </class> <!-- dsAlgo_TestClasses.Stack_TestClass -->
+      </class> <!-- dsAlgo_TestClasses.Register_TestClass -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

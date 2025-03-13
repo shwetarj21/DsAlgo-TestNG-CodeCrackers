@@ -130,17 +130,4 @@ import dsAlgo_Utilities.ExcelReader;
 	return userData;
 	}
 
-//	@DataProvider(name = "excelData")
-//	public static String[][] tryHereData() throws IOException {
-//	String sheetName = "TryEditor";
-//	int rowCount = 3;
-//	String[][] myEditor = new String[rowCount][2];
-//	for (int i = 0; i < rowCount; i++) {
-//	    myEditor[i] = TryEditor.excelTryEditor(sheetName, i+1);
-//	}
-//	return myEditor;
-//	}
-//	}
-
-
 }

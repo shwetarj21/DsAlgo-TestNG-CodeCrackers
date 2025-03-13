@@ -2,6 +2,7 @@ package dsAlgo_TestClasses;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
+import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Listeners;
@@ -12,9 +13,10 @@ import org.testng.annotations.Test;
 import dsAlgo_DriverFactory.Driver_Factory;
 import dsAlgo_PageFactory.Home_PageFactory;
 import dsAlgo_Utilities.Listeners_Reporter;
-
+import dsAlgo_Utilities.LoggerReader;
 
 @Listeners(dsAlgo_Utilities.Listeners_Reporter.class)
+
 public class Home_TestClass {
 	
 	WebDriver driver;
@@ -27,61 +29,59 @@ public class Home_TestClass {
         Driver_Factory driverFactory = new Driver_Factory();
         driverFactory.setUp(browser); 
         driver = Driver_Factory.getDriver();
-//        Driver_Factory.getDriver(); // Ensures the driver is initialized properly
         
         homePage = new Home_PageFactory();
 		homePage.launchUrl();
+		LoggerReader.info("=========URL is launched========");
 		homePage.getStartedHomeBtnClick();
     }
 
-//	@BeforeMethod
-//	public void launchHome() {
-//		homePage = new Home_PageFactory(driver);
-//		homePage.launchUrl();
-//		homePage.getStartedHomeBtnClick();
-//	}
-
-	@Test
+	@Test(priority = 1)
 	public void arraysClick() {
 		homePage.dataStructureDropDownClick();
 		homePage.arraysBtnClick();
 		assertMessage();
+		LoggerReader.info("Arrays option under Data Structures drop-down is clicked in HomePage");
 	}
 
-	@Test
+	@Test(priority = 2)
 	public void linkedListClick() {
 		homePage.dataStructureDropDownClick();
 		homePage.linkedListBtnClick();
 		assertMessage();
+		LoggerReader.info("Linked List option under Data Structures drop-down is clicked in HomePage");
 	}
 
-	@Test
+	@Test(priority = 3)
 	public void stackClick() {
 		homePage.dataStructureDropDownClick();
 		homePage.stackBtnClick();
 		assertMessage();
+		LoggerReader.info("Stack option under Data Structures drop-down is clicked in HomePage");
 	}
 
-	@Test
-
+	@Test(priority = 4)
 	public void queueClick() {
 		homePage.dataStructureDropDownClick();
 		homePage.queueBtnClick();
 		assertMessage();
+		LoggerReader.info("Queue option under Data Structures drop-down is clicked in HomePage");
 	}
 
-	@Test
+	@Test(priority = 5)
 	public void treeClick() {
 		homePage.dataStructureDropDownClick();
 		homePage.treeBtnClick();
 		assertMessage();
+		LoggerReader.info("Tree option under Data Structures drop-down is clicked in HomePage");
 	}
 
-	@Test
+	@Test(priority = 6)
 	public void graphClick() {
 		homePage.dataStructureDropDownClick();
 		homePage.graphBtnClick();
 		assertMessage();
+		LoggerReader.info("Graph option under Data Structures drop-down is clicked in HomePage");
 	}
 
 	public void assertMessage() {
@@ -89,9 +89,17 @@ public class Home_TestClass {
 		Assert.assertEquals(homeText, expectedHomeMessage);
 	}
 	
-    @AfterMethod
+	@AfterMethod
     public void tearDown() {
-        Driver_Factory driverFactory = new Driver_Factory();
-        driverFactory.tearDown(); // Ensures driver is quit and removed properly
-    }
+	    Driver_Factory driverFactory = new Driver_Factory();
+	    driverFactory.tearDown(); 
+	}
+	
+	@AfterMethod
+	public void takeScreenshotOnFailure(ITestResult result) {
+		if (result.getStatus() == ITestResult.FAILURE && driver != null) {
+			LoggerReader.info("Test failed: " + result.getName() + ". Attaching screenshot to Allure.");
+			Listeners_Reporter.attachScreenshotToAllure(driver);
+		   }
+	  }	
 }

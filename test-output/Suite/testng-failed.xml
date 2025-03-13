@@ -3,10 +3,50 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="com.aventstack.chaintest.plugins.ChainTestListener"/>
-    <listener class-name="dsAlgo_Utilities.Listeners_Test"/>
+    <listener class-name="dsAlgo_Utilities.RetryListenerClass"/>
+    <listener class-name="dsAlgo_Utilities.Listeners_Reporter"/>
   </listeners>
   <test thread-count="5" name="ChromeTest(failed)">
     <classes>
+      <class name="dsAlgo_TestClasses.Queue_TestClass">
+        <methods>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInQueueoperations" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementationusingarray" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="setup"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementationofqueueinpython" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementationusingcollectionsdeque" invocation-numbers="0"/>
+          <include name="navigateToImplementationofQueueinPythonPracticeQuestions" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.Queue_TestClass -->
+      <class name="dsAlgo_TestClasses.LinkedList_TestClass">
+        <methods>
+          <include name="clickRunWithNoCodeDeletionTryHere" invocation-numbers="0"/>
+          <include name="practiceQuestionsNavigation" invocation-numbers="0"/>
+          <include name="clickRunWithNoCodeCreatingLinkedListTryHere" invocation-numbers="0"/>
+          <include name="clickRunWithNoCodeIntroductionTryHere" invocation-numbers="0"/>
+          <include name="clickRunWithNoCodeInsertionTryHere" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="clickRunWithNoCodeImplementLinkedListTryHere" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="clickRunWithNoCodeTypesOfLinkedListTryHere" invocation-numbers="0"/>
+          <include name="clickRunWithNoCodeTraversalTryHere" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.LinkedList_TestClass -->
+      <class name="dsAlgo_TestClasses.Login_TestClass">
+        <methods>
+          <include name="invalidLogIn"/>
+          <include name="initPageObjects"/>
+          <include name="tearDown"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="loginLogOut"/>
+          <include name="validLogInData"/>
+          <include name="setup"/>
+          <include name="loginBlankFields"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.Login_TestClass -->
       <class name="dsAlgo_TestClasses.Stack_TestClass">
         <methods>
           <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementation" invocation-numbers="0"/>
@@ -14,10 +54,24 @@
           <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInOperationsInStackPage" invocation-numbers="0"/>
           <include name="tearDown"/>
           <include name="takeScreenshotOnFailure"/>
-          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInApplication" invocation-numbers="0"/>
           <include name="setup"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInApplication" invocation-numbers="0"/>
         </methods>
       </class> <!-- dsAlgo_TestClasses.Stack_TestClass -->
+      <class name="dsAlgo_TestClasses.Register_TestClass">
+        <methods>
+          <include name="registerBugPass"/>
+          <include name="registerValid"/>
+          <include name="registerOnlyUsername"/>
+          <include name="registerInvalidUser"/>
+          <include name="registerInvalidPass"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="tearDown"/>
+          <include name="registerBlankFld"/>
+          <include name="setup"/>
+          <include name="registerOnlyPassword"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.Register_TestClass -->
     </classes>
   </test> <!-- ChromeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
