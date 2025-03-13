@@ -37,14 +37,12 @@ public class Graph_TestClass extends BaseClass{
 	    graphPage = new Graph_PageFactory();
 	    validLoginDataBase(username, password);
 	    graphPage.GetStartedGraph();
-	    Thread.sleep(2000);
 	    LoggerReader.info("User clicks on Get Started under Graph section"); 
 	    }
 	
 	    @Test(priority = 1)
 	    public void Graph() throws InterruptedException {
 	    callValidLogInData();
-	    Thread.sleep(3000);
         Assert.assertEquals(graphPage.Graph_linkenabled(), true);
         graphPage.Graph();
         LoggerReader.info("User is on Graph page");       
@@ -53,7 +51,6 @@ public class Graph_TestClass extends BaseClass{
 	    @Test(priority = 2)
 	    public void GraphTryhere() throws InterruptedException {
 	    callValidLogInData();
-		Thread.sleep(3000);
 		graphPage.Graph();
 		graphPage.Tryhere();
 		LoggerReader.info("User clicks on Tryhere button in the Graph page"); 
@@ -74,7 +71,6 @@ public class Graph_TestClass extends BaseClass{
 	    callValidLogInData();
 	    graphPage.Graph();
 	    graphPage.Tryhere();
-		Thread.sleep(4000);
 		graphPage.tryEditorWindow(sheetName,rowNumber);
 		Assert.assertEquals(graphPage.RunbuttonEnabled(), true);
 		LoggerReader.info("User enters valid and invalid python code in the Tryeditor section of Graph page"); 
@@ -92,7 +88,6 @@ public class Graph_TestClass extends BaseClass{
         @Test(priority = 6)
 	    public void GraphRepresentations() throws InterruptedException {
 	    callValidLogInData();
-	    Thread.sleep(3000);
         Assert.assertEquals(graphPage.GraphRepresentations_linkenabled(), true);
         graphPage.GraphRepresentations();
         LoggerReader.info("User is on Graph Representations page");
@@ -101,7 +96,6 @@ public class Graph_TestClass extends BaseClass{
 	    @Test(priority = 7)
 	    public void GraphRepresentationsTryhere() throws InterruptedException {
 	    callValidLogInData();
-		 Thread.sleep(3000);
 		 graphPage.GraphRepresentations();
 		 graphPage.Tryhere();
 		 LoggerReader.info("User clicks on Tryhere button in the Graph Representations page");
@@ -122,7 +116,6 @@ public class Graph_TestClass extends BaseClass{
 	    callValidLogInData();
 	    graphPage.GraphRepresentations();
 	    graphPage.Tryhere();
-		Thread.sleep(4000);
 		graphPage.tryEditorWindow(sheetName,rowNumber);
 		Assert.assertEquals(graphPage.RunbuttonEnabled(), true);
 		LoggerReader.info("User enters valid and invalid python code in the Tryeditor section of Graph Representations page"); 

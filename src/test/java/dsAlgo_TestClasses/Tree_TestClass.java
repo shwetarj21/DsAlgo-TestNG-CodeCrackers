@@ -36,14 +36,12 @@ public class Tree_TestClass extends BaseClass{
 	   treePage = new Tree_PageFactory();
 	   validLoginDataBase(username, password);
 	   treePage.GetStartedTree();
-	   Thread.sleep(2000);
 	   LoggerReader.info("User clicks on Get Started under Tree section");
 	   }
 	
 	    @Test(priority = 1)
 	    public void OverviewOfTrees() throws InterruptedException {
 	    callValidLogInData();
-	    Thread.sleep(3000);
         Assert.assertEquals(treePage.OverviewOfTrees_linkenabled(), true);
         treePage.OverviewOfTrees();
         LoggerReader.info("User is on Tree page");
@@ -52,7 +50,6 @@ public class Tree_TestClass extends BaseClass{
 	    @Test(priority = 2)
 	    public void OverviewOfTreesTryhere() throws InterruptedException {
 	    callValidLogInData();
-		Thread.sleep(3000);
         treePage.OverviewOfTrees();
         treePage.Tryhere();
         LoggerReader.info("User clicks on Tryhere button in the Overview Of Trees page");
@@ -74,7 +71,6 @@ public class Tree_TestClass extends BaseClass{
 	    callValidLogInData();
 		treePage.OverviewOfTrees();
 		treePage.Tryhere();
-		Thread.sleep(4000);
 	    treePage.tryEditorWindow(sheetName,rowNumber);
 	    Assert.assertEquals(treePage.RunbuttonEnabled(), true);
 		LoggerReader.info("User enters valid and invalid python code in the Tryeditor section of Overview Of Trees page");
@@ -92,7 +88,6 @@ public class Tree_TestClass extends BaseClass{
 	    @Test(priority = 6)
 	    public void Terminologies() throws InterruptedException {
 	    callValidLogInData();
-		Thread.sleep(3000);
         Assert.assertEquals(treePage.Terminologies_linkenabled(), true);
         treePage.Terminologies();
         LoggerReader.info("User is on Overview Of Trees page");
