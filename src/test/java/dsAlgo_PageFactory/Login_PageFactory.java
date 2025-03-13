@@ -10,6 +10,7 @@ import dsAlgo_Utilities.ConfigReader;
 import dsAlgo_Utilities.TryEditor;
 
 public class Login_PageFactory  {
+	
 	WebDriver driver= Driver_Factory.getDriver();
 	ConfigReader configFileReader=Driver_Factory.configReader();
 	TryEditor readTryEditor = new TryEditor();
@@ -26,6 +27,7 @@ public class Login_PageFactory  {
 	public Login_PageFactory() {
 		PageFactory.initElements(driver, this);
 	}
+	
 	public void signInClick() {
 		signInLoginBtn.click();
 	}

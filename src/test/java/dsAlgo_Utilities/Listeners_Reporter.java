@@ -45,13 +45,10 @@ public class Listeners_Reporter implements ITestListener {
         WebDriver driver = Driver_Factory.getDriver(); 
         if (driver != null) {
             try {
-                // Capture Screenshot
                 File screenshotFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 
-                // Embed Screenshot in Chain Test Report
                 ChainTestListener.embed(screenshotFile, "image/png");
 
-                // Save Screenshot for Extent Reports
                 String screenshotDir = "target/screenshots/";
                 File screenshotFolder = new File(screenshotDir);
                 if (!screenshotFolder.exists()) {
@@ -60,7 +57,6 @@ public class Listeners_Reporter implements ITestListener {
                 String filePath = screenshotDir + result.getName() + ".png";
                 FileUtils.copyFile(screenshotFile, new File(filePath));
 
-                // Add Screenshot to Extent Report
                 extentTest.get().addScreenCaptureFromPath(filePath);
                 System.out.println("Screenshot saved at: " + filePath);
                 attachScreenshotToAllure(driver);
@@ -91,7 +87,7 @@ public class Listeners_Reporter implements ITestListener {
 
     @Override
     public void onFinish(ITestContext context) {
-        extent.flush(); // Save Extent Report
+        extent.flush(); 
         System.out.println("Tests executions completed");
     }
 }

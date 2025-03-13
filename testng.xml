@@ -3,21 +3,23 @@
 <suite name="Suite">
 
 	<listeners>
-		<listener
-			class-name="com.aventstack.chaintest.plugins.ChainTestListener" />
+		<listener class-name="com.aventstack.chaintest.plugins.ChainTestListener" />
 		<listener class-name="dsAlgo_Utilities.RetryListenerClass" />
-		<listener class-name="dsAlgo_Utilities.Listeners_Test" />  <!-- Custom
-		Listener -->
+		<listener class-name="dsAlgo_Utilities.Listeners_Reporter" />
 	</listeners>
-
 
 	<test thread-count="3" name="ChromeTest">
 		<classes>
+			<class name="dsAlgo_TestClasses.Home_TestClass" />
+			<class name="dsAlgo_TestClasses.Register_TestClass" />
+			<class name="dsAlgo_TestClasses.Login_TestClass" />
+			<class name="dsAlgo_TestClasses.DataStructure_TestClass" />
+			<class name="dsAlgo_TestClasses.Array_TestClass" />
+			<class name="dsAlgo_TestClasses.LinkedList_TestClass" />
 			<class name="dsAlgo_TestClasses.Stack_TestClass" />
-
+			<class name="dsAlgo_TestClasses.Queue_TestClass" />
+			<class name="dsAlgo_TestClasses.Tree_TestClass" />
+			<class name="dsAlgo_TestClasses.Graph_TestClass" />
 		</classes>
-	</test> <!--
-	Test -->
-
-</suite> <!--
-Suite -->
+	</test>
+</suite> 

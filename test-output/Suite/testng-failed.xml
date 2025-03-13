@@ -3,10 +3,113 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="com.aventstack.chaintest.plugins.ChainTestListener"/>
-    <listener class-name="dsAlgo_Utilities.Listeners_Test"/>
+    <listener class-name="dsAlgo_Utilities.RetryListenerClass"/>
+    <listener class-name="dsAlgo_Utilities.Listeners_Reporter"/>
   </listeners>
   <test thread-count="5" name="ChromeTest(failed)">
     <classes>
+      <class name="dsAlgo_TestClasses.Graph_TestClass">
+        <methods>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInGraphPage" invocation-numbers="0"/>
+          <include name="PracticeQuestionspageisblank" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="setup"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInGraphRepresentationsPage" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.Graph_TestClass -->
+      <class name="dsAlgo_TestClasses.Queue_TestClass">
+        <methods>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInQueueoperations" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementationusingarray" invocation-numbers="0"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementationusingcollectionsdeque" invocation-numbers="0"/>
+          <include name="navigateToImplementationofQueueinPythonPracticeQuestions" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementationofqueueinpython" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.Queue_TestClass -->
+      <class name="dsAlgo_TestClasses.LinkedList_TestClass">
+        <methods>
+          <include name="clickRunWithNoCodeDeletionTryHere" invocation-numbers="0"/>
+          <include name="practiceQuestionsNavigation" invocation-numbers="0"/>
+          <include name="clickRunWithNoCodeCreatingLinkedListTryHere" invocation-numbers="0"/>
+          <include name="clickRunWithNoCodeIntroductionTryHere" invocation-numbers="0"/>
+          <include name="clickRunWithNoCodeInsertionTryHere" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="clickRunWithNoCodeImplementLinkedListTryHere" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="clickRunWithNoCodeTraversalTryHere" invocation-numbers="0"/>
+          <include name="clickRunWithNoCodeTypesOfLinkedListTryHere" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.LinkedList_TestClass -->
+      <class name="dsAlgo_TestClasses.DataStructure_TestClass">
+        <methods>
+          <include name="NavigateToPracticeQuestionPage"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="tearDown"/>
+          <include name="test"/>
+          <include name="setup"/>
+          <include name="clickRunBtnWithoutCode"/>
+          <include name="dataStructureDropDown"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.DataStructure_TestClass -->
+      <class name="dsAlgo_TestClasses.Array_TestClass">
+        <methods>
+          <include name="clickSubmitBtnSortedArrayWithoutCode"/>
+          <include name="ApplicationOfArrayRunBtnWithoutCode"/>
+          <include name="clickRunBtnMaxConsOneWithoutCode"/>
+          <include name="TestSearchArrayCode"/>
+          <include name="tearDown"/>
+          <include name="clickSearchArrayRunBtnWithoutCode"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="clickRunBtnSortedArrayWithoutCode"/>
+          <include name="TestEvenNumDigitsCode"/>
+          <include name="TestArrayInPythonCode"/>
+          <include name="BasicOprListRunBtnWithoutCode"/>
+          <include name="TestApplicationOfArrayCode"/>
+          <include name="TestSortedArrayCode"/>
+          <include name="TestMaxConsOneCode"/>
+          <include name="TestForBasicOprListCode"/>
+          <include name="setup"/>
+          <include name="clickSubmitBtnSearchArrayWithoutCode"/>
+          <include name="clickRunBtnEvenNumDigitsWithoutCode"/>
+          <include name="clickSubmitBtnMaxConsOneWithoutCode"/>
+          <include name="TestArrayUsingListCode"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.Array_TestClass -->
+      <class name="dsAlgo_TestClasses.Tree_TestClass">
+        <methods>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInOverviewOfTreesPage" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInTreeTraversalsPage" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInBinaryTreeTraversalsPage" invocation-numbers="0"/>
+          <include name="PracticeQuestionspageisblank" invocation-numbers="0"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="tearDown"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementationOfBSTPage" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInBinaryTreesPage" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInTraversalsIllustrationPage" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInTerminologiesPage" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementationOfBinaryTreesPage" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInTypesOfBinaryTreesPage" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInTypesOfTreesPage" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInBinarySearchTreesPage" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementationInPythonPage" invocation-numbers="0"/>
+          <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInApplicationsOfBinaryTreesPage" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.Tree_TestClass -->
+      <class name="dsAlgo_TestClasses.Register_TestClass">
+        <methods>
+          <include name="registerBugPass" invocation-numbers="0"/>
+          <include name="registerValid" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="takeScreenshotOnFailure"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- dsAlgo_TestClasses.Register_TestClass -->
       <class name="dsAlgo_TestClasses.Stack_TestClass">
         <methods>
           <include name="checkErrorMessageWhenExecutingWithoutenteringCodeInImplementation" invocation-numbers="0"/>
