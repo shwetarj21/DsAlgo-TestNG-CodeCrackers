@@ -1,0 +1,391 @@
+[INFO] 2025-03-11 19:22:01.716 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] 2025-03-11 19:22:01.728 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO] 2025-03-11 19:22:01.731 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.731 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.732 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.732 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.733 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.734 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.735 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.736 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.737 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.741 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.742 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.742 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.743 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.743 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.770 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 21 ms.
+[INFO] 2025-03-11 19:22:01.793 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+[INFO] 2025-03-11 19:22:01.795 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.796 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.801 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.802 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.802 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.802 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.808 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO] 2025-03-11 19:22:01.816 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[INFO] 2025-03-11 19:22:01.819 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.819 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.819 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:22:01.820 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:22:01.837 [main] Utils - [TestNG] Running:
+  C:\Users\Vijayalakshmi\AppData\Local\Temp\testng-eclipse--78433571\testng-customsuite.xml
+
+[INFO] 2025-03-11 19:22:01.903 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+[INFO] 2025-03-11 19:22:02.878 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:22:02.955 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:22:08.676 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:22:09.301 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:22:09.351 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:22:13.202 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:22:13.242 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:22:17.727 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:22:18.193 [main] LoggerReader - Logging :::::: Operations in Stack Page Link Enabled
+[INFO] 2025-03-11 19:22:18.698 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:22:18.735 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:22:22.639 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:22:23.116 [main] LoggerReader - Logging :::::: Implementation in Stack Page Link Enabled
+[INFO] 2025-03-11 19:22:23.592 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:22:23.620 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:22:28.144 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:22:28.630 [main] LoggerReader - Logging :::::: Stack Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:22:29.042 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:22:29.075 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:22:33.061 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:22:37.611 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 19:22:37.972 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:22:37.999 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:22:42.074 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:22:44.504 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 19:22:44.896 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:22:44.926 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:22:49.695 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:22:51.880 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 19:22:52.219 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:22:52.245 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:22:56.409 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:22:58.592 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 19:22:58.969 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:22:58.989 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:23:03.954 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:23:06.202 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 19:23:06.578 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:23:06.600 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:23:11.833 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:23:14.026 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 19:23:14.442 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:23:14.485 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:23:18.504 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:23:20.665 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 19:23:21.036 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:23:21.058 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:23:25.332 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:23:27.549 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 19:23:27.939 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:23:27.965 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:23:32.399 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:23:34.662 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 19:23:35.045 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:23:35.073 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:23:40.001 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:23:41.831 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:23:41.857 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:23:46.089 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:23:49.941 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:23:49.961 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:23:54.064 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:23:56.201 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:23:56.227 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:24:00.372 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:24:06.973 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:24:07.006 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:24:11.642 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:24:17.803 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:24:17.833 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:24:21.908 [main] LoggerReader - Logging :::::: Stack Page Application Link Enabled
+[INFO] 2025-03-11 19:24:28.600 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2f29e630: 194 ms
+[INFO] 2025-03-11 19:24:28.633 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@720c0996: 32 ms
+[INFO] 2025-03-11 19:24:28.684 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1896299b: 51 ms
+[INFO] 2025-03-11 19:24:28.707 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5e5d40ec: 23 ms
+[INFO] 2025-03-11 19:24:28.737 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7320750c: 27 ms
+[INFO] 2025-03-11 19:24:28.739 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2570851e: 0 ms
+[INFO] 2025-03-11 19:27:22.463 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] 2025-03-11 19:27:22.470 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.472 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.472 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.473 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.473 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.473 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.475 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.478 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.478 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.479 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.479 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.479 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.479 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.480 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.480 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.529 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 44 ms.
+[INFO] 2025-03-11 19:27:22.539 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[INFO] 2025-03-11 19:27:22.540 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.541 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.547 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.548 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.548 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.549 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.553 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] 2025-03-11 19:27:22.565 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+[INFO] 2025-03-11 19:27:22.568 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.568 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.568 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 19:27:22.568 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 19:27:22.581 [main] Utils - [TestNG] Running:
+  C:\Users\Vijayalakshmi\AppData\Local\Temp\testng-eclipse-1839366196\testng-customsuite.xml
+
+[INFO] 2025-03-11 19:27:22.646 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 26 ms.
+[INFO] 2025-03-11 19:27:23.628 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:27:23.684 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:27:29.796 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:27:30.312 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:27:30.373 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:27:35.700 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:27:35.776 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:27:41.090 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:27:41.696 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:27:42.052 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:27:42.101 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:27:47.538 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:27:48.073 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:27:48.397 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:27:48.446 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:27:52.966 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:27:53.965 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:27:54.321 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:27:54.366 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:27:58.756 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:27:59.507 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:27:59.838 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:27:59.884 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:28:06.140 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:09.807 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:10.162 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:28:10.211 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:28:14.212 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:16.488 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:16.852 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:28:16.899 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:28:20.842 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:23.892 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:24.290 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:28:24.333 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:28:28.905 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:31.149 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:32.220 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:28:32.251 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:28:37.141 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:39.496 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:39.908 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:28:39.957 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:28:46.252 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:48.959 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:49.368 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:28:49.400 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:28:54.361 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:56.843 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:28:57.240 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:28:57.290 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:29:01.536 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:03.858 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:04.245 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:29:04.282 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:29:09.274 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:11.897 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:12.261 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:29:12.303 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:29:18.028 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:20.421 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:20.951 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:29:21.015 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:29:27.669 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:31.698 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:32.177 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:29:32.211 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:29:38.415 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:42.035 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:42.527 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:29:42.608 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:29:50.129 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:29:56.074 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:29:56.117 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:30:03.108 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:30:06.398 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:30:06.447 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:30:13.799 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:30:16.393 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:30:16.443 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:30:24.750 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:30:30.556 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:30:30.607 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:30:38.326 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:30:48.603 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:30:48.641 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:30:56.946 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:31:05.019 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:31:05.057 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:31:10.623 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:31:18.741 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 19:31:18.769 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 19:31:24.264 [main] LoggerReader - Logging :::::: Queue Page Application Link enabled and clicked
+[INFO] 2025-03-11 19:31:30.880 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@26723525: 182 ms
+[INFO] 2025-03-11 19:31:30.923 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@43f5b014: 43 ms
+[INFO] 2025-03-11 19:31:31.032 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@22e253c7: 103 ms
+[INFO] 2025-03-11 19:31:31.096 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@72c29d87: 44 ms
+[INFO] 2025-03-11 19:31:31.132 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3d2b8e: 35 ms
+[INFO] 2025-03-11 19:31:31.135 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3dcf6026: 1 ms
+[INFO] 2025-03-11 21:52:24.809 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] 2025-03-11 21:52:24.822 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO] 2025-03-11 21:52:24.825 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.825 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.826 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.826 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.830 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.831 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.831 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.832 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.833 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.833 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.834 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.834 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.835 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.835 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.853 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+[INFO] 2025-03-11 21:52:24.870 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+[INFO] 2025-03-11 21:52:24.872 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.873 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.878 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.878 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.880 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.880 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.898 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 16 ms.
+[INFO] 2025-03-11 21:52:24.900 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.903 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.903 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.904 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 21:52:24.904 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 21:52:24.923 [main] Utils - [TestNG] Running:
+  C:\Users\Vijayalakshmi\AppData\Local\Temp\testng-eclipse-167738006\testng-customsuite.xml
+
+[INFO] 2025-03-11 21:52:25.027 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+[INFO] 2025-03-11 21:52:26.952 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 21:52:27.017 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 21:52:31.705 [main] LoggerReader - Logging :::::: Click on GetStarted button under Stack section
+[INFO] 2025-03-11 21:52:33.516 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 21:52:34.053 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 21:52:34.096 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 21:52:37.980 [main] LoggerReader - Logging :::::: Click on GetStarted button under Stack section
+[INFO] 2025-03-11 21:52:40.086 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 21:52:40.621 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 21:52:40.664 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 21:52:44.675 [main] LoggerReader - Logging :::::: Click on GetStarted button under Stack section
+[INFO] 2025-03-11 21:52:46.619 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 21:52:47.284 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@77663cd7: 155 ms
+[INFO] 2025-03-11 21:52:47.288 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@582dcd35: 2 ms
+[INFO] 2025-03-11 21:52:47.303 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@66a82a13: 15 ms
+[INFO] 2025-03-11 21:52:47.312 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@22da200e: 9 ms
+[INFO] 2025-03-11 21:52:47.322 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@615e83ac: 10 ms
+[INFO] 2025-03-11 21:52:47.322 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4438938e: 0 ms
+[INFO] 2025-03-11 22:06:27.285 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.295 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO] 2025-03-11 22:06:27.298 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.298 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.299 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.299 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.301 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.301 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.303 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.304 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.304 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.305 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.306 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.306 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.307 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.307 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.329 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+[INFO] 2025-03-11 22:06:27.348 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+[INFO] 2025-03-11 22:06:27.349 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.350 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.356 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.356 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.356 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.357 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.365 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[INFO] 2025-03-11 22:06:27.370 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO] 2025-03-11 22:06:27.373 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.373 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.374 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:06:27.374 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:06:27.392 [main] Utils - [TestNG] Running:
+  C:\Users\Vijayalakshmi\AppData\Local\Temp\testng-eclipse--82709982\testng-customsuite.xml
+
+[INFO] 2025-03-11 22:06:27.450 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[INFO] 2025-03-11 22:06:28.290 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 22:06:28.367 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 22:06:33.098 [main] LoggerReader - Logging :::::: Click on GetStarted button under Stack section
+[INFO] 2025-03-11 22:06:34.873 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 22:06:35.283 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 22:06:35.320 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 22:06:39.004 [main] LoggerReader - Logging :::::: Click on GetStarted button under Stack section
+[INFO] 2025-03-11 22:06:40.868 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 22:06:41.277 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 22:06:41.305 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 22:06:44.958 [main] LoggerReader - Logging :::::: Click on GetStarted button under Stack section
+[INFO] 2025-03-11 22:06:46.793 [main] LoggerReader - Logging :::::: Stack Data Provider Try Editor page is enabled and operations are success
+[INFO] 2025-03-11 22:06:47.315 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6aff97d6: 82 ms
+[INFO] 2025-03-11 22:06:47.316 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@427308f8: 1 ms
+[INFO] 2025-03-11 22:06:47.329 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3db6dd52: 13 ms
+[INFO] 2025-03-11 22:06:47.335 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@426c0486: 6 ms
+[INFO] 2025-03-11 22:06:47.344 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@76ac68b0: 8 ms
+[INFO] 2025-03-11 22:06:47.344 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@f559c74: 0 ms
+[INFO] 2025-03-11 22:07:56.952 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:56.962 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO] 2025-03-11 22:07:56.964 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:56.965 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:56.965 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:56.965 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:56.966 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:56.966 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:56.967 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:56.967 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:56.967 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:56.967 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:56.968 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:56.968 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:56.968 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:56.969 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:56.984 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[INFO] 2025-03-11 22:07:56.996 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+[INFO] 2025-03-11 22:07:56.997 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:56.998 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO] 2025-03-11 22:07:57.002 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:57.002 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:57.003 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:57.003 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:57.015 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+[INFO] 2025-03-11 22:07:57.017 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:57.018 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:57.019 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:57.019 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] 2025-03-11 22:07:57.019 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] 2025-03-11 22:07:57.036 [main] Utils - [TestNG] Running:
+  C:\Users\Vijayalakshmi\AppData\Local\Temp\testng-eclipse--1844151743\testng-customsuite.xml
+
+[INFO] 2025-03-11 22:07:57.081 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[INFO] 2025-03-11 22:07:57.904 [main] WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+[INFO] 2025-03-11 22:07:58.029 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vijayalakshmi\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+[INFO] 2025-03-11 22:08:02.791 [main] LoggerReader - Logging :::::: Click on GetStarted button under Stack section
+[INFO] 2025-03-11 22:08:09.301 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@30a7653e: 119 ms
+[INFO] 2025-03-11 22:08:09.324 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7fd99443: 23 ms
+[INFO] 2025-03-11 22:08:09.344 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3375ebd3: 19 ms
+[INFO] 2025-03-11 22:08:09.360 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@528c8c1: 16 ms
+[INFO] 2025-03-11 22:08:09.370 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2c3158e0: 10 ms
+[INFO] 2025-03-11 22:08:09.370 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@412ebe64: 0 ms
